@@ -8,16 +8,16 @@ The tool is easy to use and self explanatory. Still I am providing the steps:
 - Double click `acronym_finder.exe`. Enter the file name with the extension (docx, txt, tex) 
 <br/>
 
-![step one](https://github.com/geekonloose/abbreviation_finder/tree/master/readme_files/1.png)
+![step one](https://github.com/geekonloose/abbreviation_finder/blob/master/readme_files/1.PNG?raw=true)
 - Enter the minimum length of acronym you want to find (this option is to remove single character words word like `A`, `(A)`, `(B)` etc.) 
 <br/>
 
-![step two](https://github.com/geekonloose/abbreviation_finder/tree/master/readme_files/2.png)
+![step two](https://github.com/geekonloose/abbreviation_finder/blob/master/readme_files/2.PNG?raw=true)
 
 - Press enter. This will generate text file with name `<acronym.txt>`. Where all alphabetically ordered abbreviations are listed.
 <br/>
 
-![step three](https://github.com/geekonloose/abbreviation_finder/tree/master/readme_files/3.png)
+![step three](https://github.com/geekonloose/abbreviation_finder/blob/master/readme_files/3.PNG?raw=true)
 
 ## python source
 - The python source file is provided. You can change python source file as per your need. 
